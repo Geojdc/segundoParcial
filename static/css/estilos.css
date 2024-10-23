@@ -1,0 +1,61 @@
+
+body  {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding:0;
+    background-image: url('../imagenes/imagenxd.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ body .form-centrado {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    text-align: center; 
+    color: rgb(12, 12, 12);
+    
+ }
+.form-centrado1 {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    text-align: center; 
+    color: rgb(12, 12, 12);
+    position: absolute;
+    top: 5%;
+    left: 40%;
+
+}
+.nuevo_Producto {
+    display: block;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+ body table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid rgb(251, 251, 251);
+    text-align: left;
+}
+.edit h1{
+    color:aliceblue;
+}
+
+
+
